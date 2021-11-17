@@ -8,19 +8,3 @@
     "header header"
     "nav content";
 }
-
-.header {
-  grid-area: header;
-  background-color: lightblue;
-}
-.header img {
-  width: 30px;
-}
-.nav {
-  grid-area: nav;
-  background-color: lightgreen;
-}
-.content {
-  grid-area: content;
-  background-color: lightcoral;
-}
