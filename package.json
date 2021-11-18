@@ -1,5 +1,5 @@
 {
-  "name": "kyky",
+  "name": "social-network",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,7 +23,7 @@
       "react-app/jest"
     ]
   },
-  "browserslist": {
+  "browsersList": {
     "production": [
       ">0.2%",
       "not dead",
