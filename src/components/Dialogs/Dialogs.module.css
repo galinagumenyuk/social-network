@@ -6,9 +6,12 @@
 .dialogsItems {
   padding: 10px;
 }
-
 .dialog {
+}
+
+.dialog a {
   color: #444444;
+  text-decoration: none;
 }
 .dialog.active {
   color: #ff8e88;
