@@ -6,9 +6,9 @@ const ProfileInfo = () => {
     <div>
       <div>
         <img
-          src="https://vjoy.cc/wp-content/uploads/2019/07/1-1.jpg"
+          src="https://media.istockphoto.com/vectors/concept-of-liberation-with-a-dove-escaping-by-breaking-its-chains-of-vector-id1138883564?k=20&m=1138883564&s=612x612&w=0&h=gjdjI_q28foI9ML0MCyMBkDratLa9pyIPHKcERKsIQw="
           width="1000px"
-          height="200px"
+          height="250px"
           alt=""
         ></img>
       </div>

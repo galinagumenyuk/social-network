@@ -5,3 +5,18 @@
 .header img {
   width: 30px;
 }
+.logo {
+  color: #ffffff;
+
+  display: block;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: 20px;
+
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.2;
+}
+.logoAccent {
+  color: #ff8e88;
+}

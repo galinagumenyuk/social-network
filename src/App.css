@@ -12,5 +12,5 @@
 .app-wrapper-content {
   grid-area: content;
   background-color: #deceb9;
-  background: url("https://themeenergy-mthitsolutions1.netdna-ssl.com/themes/wordpress/social-chef/wp-content/themes/socialchef/images/bgr/body.jpg");
+  background: url("../src/img/bcground.jpg");
 }
