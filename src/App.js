@@ -29,7 +29,12 @@ const App = (props) => {
           <Route
             exact
             path="/profile"
-            element={<Profile posts={props.state.profilePage.posts} />}
+            element={
+              <Profile
+                posts={props.state.profilePage.posts}
+                addPost={props.addPost}
+              />
+            }
           />
           <Route exact path="/news" element={<News />} />
           <Route exact path="/music" element={<Music />} />
